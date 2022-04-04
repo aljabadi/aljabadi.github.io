@@ -45,6 +45,18 @@ social_media:
 # website: http://your_website_url
 # youtube: your_username
 
+osprojects:
+  - name: mixOmics Data Integration Project
+    web_url: https://github.com/mixOmicsTeam/mixOmics
+    image_url: http://mixomics.org/wp-content/uploads/2019/07/MixOmics-Logo-1.png
+
+  - name: BIRSBIO Datathon
+    web_url: https://github.com/BIRSBiointegration/Hackathon
+    image_url: https://avatars.githubusercontent.com/u/56370400?v=4
+
+  - name: Easy Python Logging with logster
+    web_url: https://github.com/aljabadi/logster
+
 topics:
   - name: Machine Learning
     web_url: https://github.com/topics/machine-learning
