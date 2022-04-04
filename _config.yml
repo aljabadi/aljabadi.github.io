@@ -48,7 +48,7 @@ social_media:
 osprojects:
   - name: mixOmics Data Integration Project
     web_url: https://github.com/mixOmicsTeam/mixOmics
-    image_url: http://mixomics.org/wp-content/uploads/2019/07/MixOmics-Logo-1.png
+    image_url: assets/mixomics.png
 
   - name: BIRSBIO Datathon
     web_url: https://github.com/BIRSBiointegration/Hackathon
@@ -56,6 +56,7 @@ osprojects:
 
   - name: Easy Python Logging with logster
     web_url: https://github.com/aljabadi/logster
+    image_url: https://www.sentinelone.com/wp-content/uploads/2018/07/19175338/Python-Scalyr-Colors-with-Log.png
 
 topics:
   - name: Machine Learning
